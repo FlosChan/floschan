@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Chan👋
+![Tokisaki Kurumi](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG85dnJ1aGN1Nnl5dGRjbDhhZWg5MGY4Z2J4MWlqMWp3cmZqeTRiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QPGLpURMg7K5a/giphy.gif)
+_______________________________________________
+
+I'm beginner to learning programming like:
+◉ Python
+◉ C++
+◉ JavaScript
+_______________________________________________
 
 <!--
 **FlosChan/floschan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
